@@ -7,7 +7,7 @@ date: 2023-8-13 00:00:00
 severity: notice
 affected:
   - Sturtz Cloud
-section: issue
+section: Maintenance
 ---
 
 I will be updateing Sturtz Cloud, this will cause a major outage with Sturtz Cloud and related services.
