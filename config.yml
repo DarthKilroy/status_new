@@ -149,6 +149,10 @@ params:
     - name: Software
     - name: Uncategorized
       untitled: true
+    - name: Admin
+      closed: true
+    - name: Network
+      closed: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -170,7 +174,17 @@ params:
       link: https://cloud.sturtz.io
     - name: Sturtz One
       description: Sturtz Admin Login
+      category: Admin
+    - name: Sturtz Search
       category: Software
+      description: Sturtz Search
+      link: https://www.sturtz.io
+    - name: VPN 
+      category: Network
+    - name: DNS
+      catergory: Network
+    
+    
 
   # What date format to use?
   #
@@ -297,10 +311,9 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  # customTabs:
-  #  -
-  #    name: Name
-  #    link: https://example.com
+  customTabs:
+    - name: Name
+      link: https://example.com
 
   # Disable complex server-side
   # calculations that may impact
