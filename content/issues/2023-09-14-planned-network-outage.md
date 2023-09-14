@@ -10,6 +10,7 @@ resolvedWhen: 2023-09-17T08:30:48.200Z
 affected:
   - Sturtz 001
   - Sturtz Cloud
+  - Sturtz Search
   - DNS
   - VPN
 severity: notice
