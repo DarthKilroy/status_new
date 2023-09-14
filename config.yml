@@ -147,6 +147,7 @@ params:
       description: Main Hardware
       closed: true
     - name: Software
+      closed: true
     - name: Uncategorized
       untitled: true
     - name: Admin
@@ -187,6 +188,11 @@ params:
       category: Network
     - name: Proxy
       category: Network
+    - name: Filters
+      category: Network
+    - name: Sturtz Git
+      category: Software
+      description: Public Software hosting
     
     
 
