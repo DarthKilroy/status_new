@@ -3,7 +3,7 @@ section: issue
 title: "Planned Network Outage "
 date: 2023-09-17T06:00:50.414Z
 resolved: false
-draft: false
+draft: true
 informational: true
 pin: true
 resolvedWhen: 2023-09-17T08:30:48.200Z
