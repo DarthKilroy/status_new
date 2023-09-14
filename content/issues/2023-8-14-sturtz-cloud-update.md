@@ -1,10 +1,10 @@
 ---
-title: Issues Sending DMs
-date: 2023-8-13 00:00:00
+title: Sturtz Cloud Outage
+date: 2023-8-15 00:00:00
 resolved: false
-resolvedWhen: 2023-8-15 00:00:00
+resolvedWhen: 2023-8-17 00:00:00
 # Possible severity levels: down, disrupted, notice
-severity: down
+severity: notice
 affected:
   - Sturtz Cloud
 section: issue
