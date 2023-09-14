@@ -182,7 +182,11 @@ params:
     - name: VPN 
       category: Network
     - name: DNS
-      catergory: Network
+      category: Network
+    - name: Router
+      category: Network
+    - name: Proxy
+      category: Network
     
     
 
