@@ -1,5 +1,5 @@
 ---
-title: Sturtz Cloud Outage
+title: Sturtz Cloud Maintenance - Update on Sept. 14, 2023
 date: 2023-09-13 00:00:00
 resolved: false
 #resolvedWhen: 2023-09-17 00:00:00
