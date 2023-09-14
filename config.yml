@@ -312,8 +312,8 @@ params:
   #
   # Format:
   customTabs:
-    - name: Name
-      link: https://example.com
+    - name: Maintenance
+      link: maintenance
 
   # Disable complex server-side
   # calculations that may impact
