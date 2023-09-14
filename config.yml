@@ -311,9 +311,9 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  customTabs:
-    - name: Maintenance
-      link: maintenance
+  # customTabs:
+  #   - name: Maintenance
+  #     link: maintenance
 
   # Disable complex server-side
   # calculations that may impact
