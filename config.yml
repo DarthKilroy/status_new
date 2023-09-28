@@ -1,5 +1,5 @@
 title: Sturtz Network Status
-buildFuture: true
+buildFuture: false
 defaultContentLanguage: en
 languageCode: en
 baseURL: https://status.sturtz.io
@@ -113,23 +113,24 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Servers
-      description: Main Hardware
-      closed: true
-    - name: Software
-      closed: true
-      description: Websites and Services we run
-    - name: Network
-      closed: true
-      description: "Network Services "
     - name: WIFI
       closed: true
       description: WIFI networks and Related Services
+    - name: Software
+      closed: true
+      description: Websites and Services we run
+    - name: Uncategorized
+      untitled: true
+    - name: Servers
+      description: Main Hardware
+      closed: true
+    - name: Network
+      closed: true
+      description: "Network Services "
     - name: Admin
       closed: true
       description: Admin services
-    - name: Uncategorized
-      untitled: true
+      untitled: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
