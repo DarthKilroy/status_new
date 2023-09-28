@@ -2,7 +2,7 @@
 section: issue
 title: Sturtz 001 Firewall issue
 date: 2023-09-28T22:37:02.353Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
@@ -18,3 +18,7 @@ affected:
 severity: down
 ---
 *Investigating* - This issue is being looked into, the cause is known. Working on finding a solution.
+
+
+
+Issue - Resolved
