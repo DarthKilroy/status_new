@@ -5,7 +5,7 @@ date: 2023-09-28T22:37:02.353Z
 resolved: false
 draft: false
 informational: false
-pin: false
+pin: true
 resolvedWhen: ""
 affected:
   - Sturtz001
