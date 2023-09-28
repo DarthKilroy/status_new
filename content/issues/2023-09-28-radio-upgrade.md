@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: true
 pin: true
-resolvedWhen: 2023-09-29T03:00:14.496Z
+resolvedWhen: 2023-09-29T00:00:00.000Z
 affected:
   - Radio
 severity: down
