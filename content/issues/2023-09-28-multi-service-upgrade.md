@@ -28,3 +28,10 @@ affected:
 severity: notice
 ---
 All listed services will be down during this time.
+
+This will happen between the time of:
+
+\
+09/30/2023 11:30 PM and 10/01/2023 12:00 AM
+
+If you have any questions please feel free to ask.
