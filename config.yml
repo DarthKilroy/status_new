@@ -1,5 +1,5 @@
 title: Sturtz Network Status
-buildFuture: false
+buildFuture: true
 defaultContentLanguage: en
 languageCode: en
 baseURL: https://status.sturtz.io
@@ -109,7 +109,7 @@ params:
   useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
   categories:
