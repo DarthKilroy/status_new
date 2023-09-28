@@ -94,6 +94,9 @@ params:
     - name: Home
       category: Admin
       description: Home Control
+    - name: DHCP
+      category: WIFI
+      description: IP/Subnet assignment
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -116,17 +119,17 @@ params:
     - name: Software
       closed: true
       description: Websites and Services we run
-    - name: Uncategorized
-      untitled: true
-    - name: Admin
-      closed: true
-      description: Admin services
     - name: Network
       closed: true
       description: "Network Services "
     - name: WIFI
       closed: true
       description: WIFI networks and Related Services
+    - name: Admin
+      closed: true
+      description: Admin services
+    - name: Uncategorized
+      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
