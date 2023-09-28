@@ -41,7 +41,7 @@ params:
       category: Servers
     - name: Sturtz 002
       category: Servers
-    - name: Sturtz 002
+    - name: Sturtz 003
       category: Servers
     - name: Sturtz Cloud
       description: Sturtz Cloud - Private File storage
@@ -74,6 +74,15 @@ params:
       category: Network
     - name: Firewall
       category: Network
+    - name: KyLANRen
+      category: WIFI
+    - name: sturtz-network
+      description: ""
+      category: WIFI
+    - name: sturtz-network-5G
+      category: WIFI
+    - name: msturtz
+      category: WIFI
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -101,6 +110,7 @@ params:
       closed: true
     - name: Network
       closed: true
+    - name: WIFI
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
