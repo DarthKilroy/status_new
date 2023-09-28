@@ -2,7 +2,7 @@
 section: issue
 title: Radio Upgrade
 date: 2023-09-28T23:00:14.410Z
-resolved: true
+resolved: false
 draft: false
 informational: true
 pin: true
