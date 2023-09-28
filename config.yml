@@ -76,13 +76,24 @@ params:
       category: Network
     - name: KyLANRen
       category: WIFI
+      description: WIFI Network
     - name: sturtz-network
-      description: ""
+      description: WIFI Network
       category: WIFI
     - name: sturtz-network-5G
       category: WIFI
+      description: WIFI Network
     - name: msturtz
       category: WIFI
+      description: WIFI Network
+    - name: ITS
+      category: Admin
+      description: Internal Ticket System
+    - name: Radio
+      category: Software
+    - name: Home
+      category: Admin
+      description: Home Control
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -104,14 +115,18 @@ params:
       closed: true
     - name: Software
       closed: true
+      description: Websites and Services we run
     - name: Uncategorized
       untitled: true
     - name: Admin
       closed: true
+      description: Admin services
     - name: Network
       closed: true
+      description: "Network Services "
     - name: WIFI
       closed: true
+      description: WIFI networks and Related Services
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
