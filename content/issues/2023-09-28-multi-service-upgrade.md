@@ -27,6 +27,10 @@ affected:
   - DHCP
 severity: notice
 ---
+# Planned Service Upgrade on 9/30-10/01
+
+- - -
+
 All listed services will be down during this time.
 
 This will happen between the time of:
