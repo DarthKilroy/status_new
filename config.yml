@@ -67,6 +67,13 @@ params:
     - name: Sturtz Git
       category: Software
       description: Public Software hosting
+    - name: S2S
+      category: Network
+      description: Server to Server Links
+    - name: Website Routing
+      category: Network
+    - name: Firewall
+      category: Network
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
