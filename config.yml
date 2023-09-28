@@ -97,6 +97,14 @@ params:
     - name: DHCP
       category: WIFI
       description: IP/Subnet assignment
+    - name: 001 Firewall
+      category: Network
+      description: ""
+    - name: 002 Firewall
+      description: ""
+      category: Network
+    - name: 003 Firewall
+      category: Network
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: false
