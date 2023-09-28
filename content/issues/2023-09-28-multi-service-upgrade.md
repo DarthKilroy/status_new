@@ -2,7 +2,7 @@
 section: issue
 title: Multi service upgrade.
 date: 2023-10-01T04:30:51.423Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: true
@@ -25,7 +25,7 @@ affected:
   - ITS
   - Home
   - DHCP
-severity: down
+severity: notice
 ---
 All listed services will be down during this time.
 
