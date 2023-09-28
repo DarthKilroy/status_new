@@ -9,7 +9,7 @@ pin: false
 resolvedWhen: 2023-09-28T23:51:21.087Z
 affected:
   - Radio
-severity: down
+severity: notice
 ---
 *We will be doing a Radio Upgrade, the station will be down during this time. -- The 8 Ball Crew.*
 
