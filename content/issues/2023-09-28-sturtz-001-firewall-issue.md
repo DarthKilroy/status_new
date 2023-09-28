@@ -14,6 +14,7 @@ affected:
   - Sturtz Search
   - Jail
   - ITS
+  - DNS
 severity: down
 ---
 *Investigating* - This issue is being looked into, the cause is known. Working on finding a solution.
