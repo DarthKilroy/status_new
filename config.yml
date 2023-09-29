@@ -105,6 +105,9 @@ params:
       category: Network
     - name: 003 Firewall
       category: Network
+    - name: Sturtz 3
+      category: Software
+      description: Image/File Storage/Hosting
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: false
