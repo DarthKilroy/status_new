@@ -15,7 +15,7 @@ T﻿his is a test page, I don't know what will all go in here but I know this wi
 
       1. `l﻿ike this?`
       2. `or code inside lists`
-   3. `l﻿ike this!!```
+   3. \`l﻿ike this!!\`
 
    ![](/img/logo.png "Image")
 
