@@ -109,7 +109,7 @@ params:
   brand: "#0a0c0f"
   enableLastMod: false
   headerTextColor: white
-  logo: /img/logo.png
+  logo: https://s3.sturtz.io/stuff/img/logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
